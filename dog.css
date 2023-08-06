@@ -1,0 +1,31 @@
+#A1{
+    background-color:black;
+    font-size: x-large;
+     
+    
+  }
+  #A2{
+      background-color: #000000;
+      
+      font-size: 680%;
+      
+    
+      
+  }
+  #A3
+  {
+      image-resolution: 50%;
+      font-style: oblique;
+      background: whitesmoke;
+  
+  }
+  #A4
+  {
+    background: red;
+  }
+  img{
+    opacity: 0.5;
+  }
+  
+  
+  

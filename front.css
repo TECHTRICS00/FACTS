@@ -1,0 +1,37 @@
+#a1{
+  color-scheme: red;
+}
+
+img{
+  opacity: 10;
+  border: 8px solid #fff000;
+  border-radius: 4%;
+  position: relative;
+ 
+}
+@keyframes mymove{
+  from{left: 0px;}
+  to {left: 200px;}
+}
+
+
+.footer{
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: xx-large;
+  
+}
+
+@keyframes movedown
+{
+  0%
+  {
+    transform: translateY(-100px);
+  }
+  100%
+  {
+    transform: translateY(0);
+  }
+}
